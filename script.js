@@ -288,7 +288,7 @@ function confirmOrder() {
   updateSummary();
 
   toast(
-    "¡Pedido de demostración confirmado! No se envió al negocio."
+    "¡Pedido confirmado! No se envió al negocio."
   );
 }
 
